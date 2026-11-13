@@ -178,6 +178,7 @@ Contributions are welcome! If you'd like to contribute:
 - Some cells may take a few minutes to execute, especially hyperparameter tuning
 
 ## 📄 License
+MIT
 
 ## 🙏 Acknowledgments
 
